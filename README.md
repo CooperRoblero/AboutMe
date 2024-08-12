@@ -20,4 +20,18 @@ Nighttime routines
 2. Collect Supplies.
 3. Pick out shoes.
 
-   Markdown Tutorial
+
+## My Motto
+
+*Well in that case*
+
+_Let the chances bring in_
+
+
+## Favorite Quotes
+
+Either you run the day, or the day runs **you.**
+
+__Believe you can__ and you're halfway there.
+
+Markdown Tutorial
