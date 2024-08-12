@@ -48,7 +48,7 @@ Either <b>you</b> run the day, or the day runs you.
 [Lewis Hamilton](https://en.wikipedia.org/wiki/Lewis_Hamilton)
 
 [Sidney Crosby](https://en.wikipedia.org/wiki/Sidney_Crosby)
-
+![Sidney](https://upload.wikimedia.org/wikipedia/commons/a/ae/Sidney_Crosby_2019-01-06_1.jpg)
 
 # AboutMe
 ---
