@@ -23,15 +23,15 @@ Nighttime routines
 
 ## My Motto
 
-*Well in that case*
+<i>Well in that case</i>
 
-_Let the chances bring in_
+<i>Let the chances bring in</i>
 
 
 ## Favorite Quotes
 
-Either you run the day, or the day runs **you.**
+Either <b>you</b> run the day, or the day runs you.
 
-__Believe you can__ and you're halfway there.
+<i>Believe you can</b> and you're halfway there.
 
 Markdown Tutorial
