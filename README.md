@@ -44,11 +44,27 @@ Either <b>you</b> run the day, or the day runs you.
 ## Persons of Interest
 
 [Lando Norris](https://en.wikipedia.org/wiki/Lando_Norris)
-
+<kbd>
+<img src="https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/norris" height="100px" width="100px">
+  </kbd><br>
 [Lewis Hamilton](https://en.wikipedia.org/wiki/Lewis_Hamilton)
-
+<kbd>
+<img src="https://www.blackpast.org/wp-content/uploads/lewis-hamilton.jpg" height="100px" width="100px">
+</kbd><br>
 [Sidney Crosby](https://en.wikipedia.org/wiki/Sidney_Crosby)
+<kbd>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Sidney_Crosby_2019-01-06_1.jpg" height="100px" width="100px">
+</kbd><br>
+
+## Favorite Terms
+
+| Terms | Definitions | My Meaning
+|:-|:----:| ---:|
+| Vivid | Powerful, intensive color; Clear precise language| Invoking strong emotion |
+| Oriflamme | A kinight's battle standard | Your logo, icon |
+| Eccentric | Of unconvential and slightly strange character | Someone who is odd byt cool |
+| Supline | lying face upward; failing to act| Other term for coward |
+
 
 # AboutMe
 ---
