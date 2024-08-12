@@ -43,9 +43,9 @@ Either <b>you</b> run the day, or the day runs you.
 
 ## Persons of Interest
 
-[Lando Norris][1]:<https://en.wikipedia.org/wiki/Lando_Norris>
-[Lewis Hamilton][2]:<https://en.wikipedia.org/wiki/Lewis_Hamilton>
-[Sidney Crosby][3]:<https://en.wikipedia.org/wiki/Sidney_Crosby>
+[Lando Norris]:(https://en.wikipedia.org/wiki/Lando_Norris)
+[Lewis Hamilton](https://en.wikipedia.org/wiki/Lewis_Hamilton)
+[Sidney Crosby](<https://en.wikipedia.org/wiki/Sidney_Crosby)
 
 
 # AboutMe
